@@ -1,0 +1,68 @@
+    h1 {
+  text-align: center; 
+  color: #e3e3e3;  
+  background-color: black; 
+  margin-top: -11px;
+  margin-right: -10px; 
+  margin-left: -10px; 
+  margin-bottom: -11px;
+    } 
+    p {
+  text-align: center; 
+  margin-right: 150px; 
+  margin-left: 150px; 
+  color: #e3e3e3; 
+  font-family: 'MinecraftiaRegular';
+    }
+    div {
+  text-align: center; 
+  color: #e3e3e3;
+    }
+    h2 {
+  text-align: center; 
+  color: #e3e3e3;
+  font-family: 'MinecraftiaRegular'
+    }
+    img {
+  width: 50%;
+  height: 50%;
+    }
+    ul {
+  color: #e3e3e3;
+  font-family: 'MinecraftiaRegular'
+    }
+    ol {
+  color: #e3e3e3;
+  font-family: 'MinecraftiaRegular';
+    }
+    .centerAlign {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+    .rightAlignMargin {
+  float: right;
+  margin-left: 1500px;
+    }
+    .leftAlignMargin {
+  float: left;
+  margin-right: 1500px;
+    }
+    .spacer {
+  background-color: #292929;
+  color: #292929;
+    }
+    .spacerBlack {
+  background-color: black;
+  color: black;
+    }
+    .spacerTweenBot {
+  background-color: #292929;
+  color: black;
+    }
+    .spacerTweenTop {
+  background-color: #292929;
+  color: #292929;
+  margin-top: 10px;
+    }
